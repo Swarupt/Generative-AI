@@ -1,0 +1,3 @@
+TV | 2500
+smartphone | 25666
+Washing Machine | 6999
